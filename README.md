@@ -29,5 +29,5 @@ while True:
 
 Save the above code with some name lets say “pythonCrawler.py”. To start crawling any website just type:
 ```
-python pythonCrawler.py http://mysite.com
+$ python pythonCrawler.py http://mysite.com
 ```
